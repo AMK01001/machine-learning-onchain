@@ -4,7 +4,8 @@
 Repository with Unsupervised Machine Learning models applied to Ethereum wallet behavior.
 Repositório com modelos de Machine Learning Não Supervisionado aplicados ao comportamento de carteiras Ethereum.
 
-🇧🇷 [Leia em Português](#-português) | 🇬🇧 [Read in English](#-english)
+🇧🇷 [Leia em Português](https://github.com/AMK01001/machine-learning-onchain/blob/main/READMEpt.md) | 
+🇬🇧 [Read in English](https://github.com/AMK01001/machine-learning-onchain/blob/main/README.md)
 
 ## 🇧🇷 PORTUGUÊS
 
